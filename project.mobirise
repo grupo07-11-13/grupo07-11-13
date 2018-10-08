@@ -3517,7 +3517,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/3-1064x526.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -3534,8 +3534,8 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/4-1069x520.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
