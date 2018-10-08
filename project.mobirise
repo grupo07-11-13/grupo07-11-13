@@ -1916,7 +1916,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b>Defining the Effect :&nbsp;</b></p><p><span style=\"font-style: normal;\">Some of the most frequent causes that occur (in 75% of cases) are: severe bleeding during childbirth, external infections, preeclampsia, unsafe abortion, hookworm infestation (parasites), etc.\n&nbsp;</span><span style=\"font-style: normal; font-size: 1.09rem;\">In addition, it is indirectly related to iron deficiency anemia since it is one of the factors by which pregnant mothers die postpartum, due to a deficiency not only of iron but also by a megaloblastic anemia due to a deficiency of folic acid (Vitamin B9 and B12).</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b>Defining the Effect :&nbsp;</b></p><p><span style=\"font-style: normal;\">Some of the most frequent causes that occur (in 75% of cases) are: severe bleeding during childbirth, external infections, preeclampsia, unsafe abortion, hookworm infestation (parasites), etc.\n&nbsp;</span><span style=\"font-style: normal; font-size: 1.09rem;\">In addition, it is indirectly related to iron deficiency anemia since it is one of the factors by which pregnant mothers die postpartum, due to a deficiency not only of iron but also by a megaloblastic anemia due to a deficiency of folic acid (Vitamin B9 and B12). <b>(NZDL)</b></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r5R3WqzM69",
           "_protectedParams": [],
           "_global": false,
@@ -3499,7 +3499,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2-1073x524.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -3516,10 +3516,10 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/3-1064x526.jpg",
+                "active": true,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3530,7 +3530,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
+                "overlayOpacity": "0"
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
@@ -3547,7 +3548,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
+                "overlayOpacity": "0"
               }
             ]
           },
